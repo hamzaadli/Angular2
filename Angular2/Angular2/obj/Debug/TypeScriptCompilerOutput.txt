@@ -1,0 +1,9 @@
+C:\learning\Angular2\Angular2\app\main.js
+C:\learning\Angular2\Angular2\app\components\welcome\welcome.component.js
+C:\learning\Angular2\Angular2\Scripts\Enums.js
+C:\learning\Angular2\Angular2\app\main.js
+C:\learning\Angular2\Angular2\app\components\welcome\welcome.component.js
+C:\learning\Angular2\Angular2\Scripts\Enums.js
+C:\learning\Angular2\Angular2\app\main.js
+C:\learning\Angular2\Angular2\app\components\welcome\welcome.component.js
+C:\learning\Angular2\Angular2\Scripts\Enums.js
